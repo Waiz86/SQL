@@ -1,0 +1,27 @@
+{
+  "name": "mongocli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waiz86/SQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waiz86/SQL/issues"
+  },
+  "homepage": "https://github.com/Waiz86/SQL#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "env": "^0.0.2",
+    "i": "^0.3.7",
+    "mongodb": "^4.7.0",
+    "yargs": "^17.5.1"
+  }
+}
